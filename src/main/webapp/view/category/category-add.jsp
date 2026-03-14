@@ -11,6 +11,7 @@
 
         <body>
             <h1>Hello World!</h1>
+            <h2>Add Category</h2>
         </body>
 
         </html>
